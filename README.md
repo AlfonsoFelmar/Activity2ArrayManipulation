@@ -1,2 +1,2 @@
-# Activity2ArrayManipulation
- 
+# Activity 2 Array Manipulation
+Felmar M. Alfonso
